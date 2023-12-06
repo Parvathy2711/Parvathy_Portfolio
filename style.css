@@ -1,0 +1,48 @@
+body{
+    background-image:url('https://img.freepik.com/premium-vector/young-woman-working-laptop-computer-female-office-worker-doing-online-distant-work-woman-working-from-home-office-freelance-online-education-concept-vector-illustration-isolated-white_538658-25.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.navbar {
+    background-color: transparent;
+}
+.navbar-nav {
+    margin-left: auto;
+}
+.navbar-nav .nav-item {
+    padding: 0 10px;
+}
+.navbar-nav .nav-link {
+    color: black;
+    font-weight:bold;
+}
+.social-icons {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 10px;
+}
+.social-icons span a {
+    background-color: white;
+    color: black;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 10px;
+}
+.fa:hover {
+    cursor: pointer;
+}
+section ul li {
+    font-size: 25px;
+}
+section p {
+    font-size: 18px;
+    text-align: justify;
+}
+.text {
+    margin: 30px 0 0 0;
+}
+.tech {
+    font-size: 14px;
+}
